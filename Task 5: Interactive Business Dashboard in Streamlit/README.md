@@ -82,25 +82,37 @@ The dashboard contains the following important visuals:
 
 ### Sales by Region
 
+![Sales by Region](assets/task_5_sales_by_region.png)
+
 This chart shows which regions generate the highest sales.
 
 ### Profit by Category
+
+![Profut by Category](assets/task_5_profit_by_category.png)
 
 This chart identifies the most profitable product categories.
 
 ### Sales Share by Segment
 
+![Sales Share by Segment](assets/task_5_sales_share_by_segment.png)
+
 This pie chart shows how sales are distributed across customer segments.
 
 ### Top 5 Customers by Sales
+
+![Top 5 Customers by Sales](assets/task_5_top_5_customers_by_sales.png)
 
 This chart identifies the highest-value customers based on total sales.
 
 ### Sub-Category Performance
 
+![Sub-Category Performance](assets/task_5_sub-catefory_performance.png)
+
 This chart compares sales and profit across product sub-categories.
 
 ### Monthly Sales and Profit Trend
+
+![Monthly Sales and Profit Trend](assets/task_5_monthly_sales_and_profit_trends.png)
 
 This line chart shows how sales and profit change over time.
 
